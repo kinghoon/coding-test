@@ -1,0 +1,2 @@
+npx create-react-app 폴더이름
+index.js에서 restrictmode지우기 
